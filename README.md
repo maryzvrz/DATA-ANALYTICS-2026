@@ -50,7 +50,7 @@
    ```python
    time.sleep(0.5)
     ```
-- **Примечание** - модель GigaChat уже настроена. `verify_ssl_certs=False` используются в виду проблем с сертификатами GigaChat
+- **Примечание** - модель GigaChat уже настроена. `verify_ssl_certs=False` используются ввиду проблем с сертификатами GigaChat
 
 ## Пример входных данных (первые строки из датасета 'data-zav2.csv')
 |"Review"|"Rating"|
