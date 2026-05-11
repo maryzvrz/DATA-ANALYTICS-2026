@@ -16,8 +16,8 @@
 2. **Подключитесь к Google Drive в Google Colab и укажите путь к файлу с базой данных**
    ```python
    drive.mount('/content/drive')
-   csv_path = '/content/drive/MyDrive/data-zav2.csv'
-4. **Получите API ключ от GigaChat**. Это можно сделать, зарегистрировавшись на сайте https://developers.sber.ru/
-5. **Загрузите свой ключ в раздел 'Секреты'🔑 в Google Colab.** В дальнейшем он используется под переменной key с целью безопасности
+   csv_path = '/content/drive/MyDrive/data-zav2.csv' -> указать путь здесь
+3. **Получите API ключ от GigaChat**. Это можно сделать, зарегистрировавшись на сайте https://developers.sber.ru/
+4. **Загрузите свой ключ в раздел 'Секреты'🔑 в Google Colab.** В дальнейшем он используется под переменной key с целью безопасности
 
 
