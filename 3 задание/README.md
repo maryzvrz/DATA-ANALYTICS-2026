@@ -49,7 +49,7 @@
 6. Наслаждайтесь результатами анализа
 
 ## Пример входных данных для сайта 
-|order_id,city_tier|customer_age|customer_loyalty_score,order_hour|...|
+|order_id|city_tier|customer_age|...|
 |---|----|----|---|
 |5a87c6ab-e4a8-44ef-8852-f7a63e3b3943|2|21|4.957522428850114|
 |8eab78a5-a5c5-41d7-9a5f-5779ee5f2d3d|1|63|38.74472105988619|
