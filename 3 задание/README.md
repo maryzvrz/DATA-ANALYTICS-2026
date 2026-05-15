@@ -22,6 +22,8 @@
    ```python
    !pip install streamlit pandas numpy langchain langgraph langchain-core gigachat plotly matplotlib pydantic pyngrok typing-extensions nest-asyncio
     ```
+- **Примечание** - модель GigaChat уже настроена. `verify_ssl_certs=False` используются ввиду проблем с сертификатами GigaChat
+- **Примечание** - код реализован на Google Colab и GigaChat из-за технических шоколадок с VPN и VS Code
 **Программа готова к запуску**
 
 ## Запуск кода
@@ -41,5 +43,3 @@
 5. Наслаждайтесь готовым анализом
 
 
-    ```
-- **Примечание** - модель GigaChat уже настроена. `verify_ssl_certs=False` используются ввиду проблем с сертификатами GigaChat
