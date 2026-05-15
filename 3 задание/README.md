@@ -36,6 +36,7 @@
 6. Перейдите на сайт и воспользуйтесь ИИ агентом
 
 ## Как пользоваться сайтом**
+<img width="1446" height="3778" alt="изначальный экран" src="https://github.com/user-attachments/assets/74b511b0-d37b-4765-8e6c-875f08959eb6" />
 1. Перейти по ссылке от ngrok
 2. Загрузить csv файл, нажав на кнопку 'Upload', расположенную под заголовком "Шаг 1: Загрузите данные"
    Требования к CSV файлу:
@@ -54,6 +55,7 @@
 |1338cc5b-e5cf-419f-a7c9-4a2577608715|1|68|45.17099659791848|
 |5277f2fb-b1b3-4f58-9975-12f8f1b71421|2|30|10.573003110117762|
 |df159a97-3a78-4b08-a524-ec433c75b670|2|60|58.28462016211871|
-## Пример выходных данных сайта (показан в файле website.screenshots.pdf в этой папке)
-![Демонстрация работы](images/FullSizeRender.jpg)
+## Пример выходных данных сайта 
+<img width="977" height="5893" alt="итог интерфейс1" src="https://github.com/user-attachments/assets/d68490b3-bf90-41ec-b866-a646dcd20dbe" />
+<img width="976" height="5862" alt="итог интерфейс2" src="https://github.com/user-attachments/assets/e737fc14-6b8b-46aa-bcc7-7d04c4a4b83e" />
 
